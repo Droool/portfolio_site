@@ -1389,6 +1389,25 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
+				#header .logo .fab:before {
+				font-size: 2.5rem;
+			}
+			
+			.fab{
+				position: relative;
+				top:7px;
+			}
+
+				#header .logo .fas:before {
+				font-size: 2.5rem;
+			}
+			
+			.fas{
+				position: relative;
+				top:5px;
+			}
+
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
